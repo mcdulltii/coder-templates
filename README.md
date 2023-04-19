@@ -1,2 +1,3 @@
-# coder-templates
+# Coder Templates
+
 Coder deployment templates
